@@ -10,5 +10,5 @@
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-05-Subat-2022/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-05-Subat-2022/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-6-KASIM-2021/blob/main/sss.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-05-Subat-2022/blob/main/sss.md)
 + [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZIpc--oqTspGdXYFvE2GdLlWWvVNGfHRTbk)
